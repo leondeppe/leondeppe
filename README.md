@@ -17,7 +17,7 @@
 |---------|-------|-----------------|
 | **[NixOS-Config](https://github.com/leondeppe/NixOS-Config)** | My fully declarative desktop & server setup, powered by flakes and Home-Manager | Nix, flakes, KDE Plasma |
 | **[Telegram-USDT × Ghost CMS](https://github.com/leondeppe/Telegram-USDT-Subscription-System-For-Ghost)** | Self-hosted Telegram bot that sells Ghost memberships via USDT on Polygon | Python, JWT |
-| **[Discord Game Bot — Gacha Dinos](https://github.com/leondeppe/discordgamebot)** | A bot for your Discord server | Python, Discord |
+| **[Discord Game Bot](https://github.com/leondeppe/discordgamebot)** | A bot for your Discord server | Python, Discord |
 
 ---
 
